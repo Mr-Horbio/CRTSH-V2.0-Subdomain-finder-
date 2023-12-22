@@ -6,7 +6,7 @@ Install :
 git clone https://github.com/Mr-Horbio/CRTSH-V2.0-Subdomain-finder-.git
 
 usage : 
-python crtsh.py -d example.com
+python certsh.py -d example.com
 
 
 
